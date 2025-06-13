@@ -94,10 +94,6 @@ A full-stack application that allows users to send and read emails using voice c
 - Ensure your browser has permissions to access your webcam and microphone.
 - The application works best in Chrome or Edge browsers.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - This project uses various open-source libraries and APIs. Thanks to all the contributors of these projects.
