@@ -1,0 +1,13 @@
+flask==2.2.5
+flask-cors==3.0.10
+face-recognition==1.3.0
+numpy==1.21.6
+opencv-python==4.5.5.64
+python-dotenv==0.21.0
+requests==2.28.1
+python-dateutil==2.8.2
+email-validator==1.3.1
+SpeechRecognition
+pyttsx3
+pypiwin32
+gtts
